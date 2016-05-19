@@ -60,7 +60,7 @@ PHP
 
 
 
-原生 xmlhttprequst 实现，注意可以通过 Chrome devtools 观察网络请求，注意观察请求是否 POST 转化为 option 
+原生 XMLHttpRequest 实现，注意可以通过 Chrome Devtools 观察网络请求，注意观察请求是否 POST 转化为 option 
 
 [XMLHttpRequest changes POST to OPTION](http://stackoverflow.com/questions/8153832/xmlhttprequest-changes-post-to-option)
 
@@ -86,6 +86,6 @@ PHP
 
 
 
-注意事项：预请求转化条件 [预请求 mdn](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS#预请求) ,如果通过 xmlhttprequest  mime 类型为 application/json ，后台服务器没有处理相应的 option 请求，可能会导致失败
+注意事项：预请求转化条件 [预请求 MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS#预请求) ,如果通过 XMLHttpRequest  mime 类型为 application/json ，后台服务器没有处理相应的 option 请求，可能会导致失败
 
 
