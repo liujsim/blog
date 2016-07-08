@@ -3,6 +3,8 @@
 ### CSS 绘画
 CSS 绘画基础
 
+border 默认是黑色，可以通过设置为 transparent 隐藏
+
 预备知识：`border-left-color`、 `border-radius` 、`box-shadow`、`border-bottom-right-radius`
 
 
@@ -33,7 +35,7 @@ css
 
 ### CSS 复杂图形和动画应用
 
-[示例demo](http://codepen.io/runcelim/pen/jqjMNy)
+[示例demo](http://codepen.io/runcelim/pen/QNXKLG)
 
 
 ### CSS 绘图的应用
