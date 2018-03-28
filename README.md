@@ -4,6 +4,8 @@
 
 #### 2018-03
 
+* [canvas 绘图](https://github.com/liujsim/blog/issues/7)
+
 * [常用 docker 配置](https://github.com/liujsim/blog/issues/5)
 
 * [mac 输入特殊符号](https://github.com/liujsim/blog/issues/4)
