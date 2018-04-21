@@ -2,6 +2,10 @@
 
 ### Posts
 
+#### 2018-04
+
+* [js snippets 合集](https://github.com/liujsim/blog/issues/8)
+
 #### 2018-03
 
 * [canvas 绘图](https://github.com/liujsim/blog/issues/7)
