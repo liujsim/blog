@@ -1,8 +1,13 @@
 # blog
 
-### Posts
+#### 2018-05
+
+* [vps 初始化](https://github.com/liujsim/blog/issues/10)
+
 
 #### 2018-04
+
+* [简单的表单验证工具类](https://github.com/liujsim/blog/issues/9)
 
 * [js snippets 合集](https://github.com/liujsim/blog/issues/8)
 
