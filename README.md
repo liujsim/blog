@@ -1,5 +1,9 @@
 # blog
 
+#### 2018-09
+
+* [HTML 5 页面输入法遮挡问题研究 ](https://github.com/liujsim/blog/issues/11)
+
 #### 2018-05
 
 * [vps 初始化](https://github.com/liujsim/blog/issues/10)
